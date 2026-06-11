@@ -239,3 +239,7 @@ Parts of this project were developed with reference to the following open-source
 
 - [DEA-Net](https://github.com/cecret3350/DEA-Net)
 - [DehazeFormer](https://github.com/IDKiro/DehazeFormer)
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
